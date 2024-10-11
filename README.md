@@ -99,4 +99,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-This script was developed by **blackbunt**.
+This script was developed by **blackbunt** with help from **github copilot**.
